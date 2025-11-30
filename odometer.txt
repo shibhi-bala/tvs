@@ -3,4 +3,10 @@ tvs selfcheck
 void main()
 {
 while(1)
+{
+    led =1;
+    delay(100);
+    led =0;
+    delay(100);
+}
 }
